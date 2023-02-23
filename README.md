@@ -1,2 +1,2 @@
 # get_next_line
-Clone of readline function from GNU Readline library.
+get_next_line is a function that reads a line from a file descriptor given as a parameter.
